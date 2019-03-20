@@ -3,7 +3,7 @@ package assembler;
 import spring.ChangePasswordService;
 import spring.MemberDao;
 import spring.MemberRegisterService;
-
+//조립기 역할을 하는 클래스이다.
 public class Assembler {
 
 	private MemberDao memberDao;
