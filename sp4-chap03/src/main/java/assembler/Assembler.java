@@ -9,6 +9,7 @@ public class Assembler {
 	private MemberDao memberDao;
 	private MemberRegisterService regSvc;
 	private ChangePasswordService pwdSvc;
+	
 
 	public Assembler() {
 		memberDao = new MemberDao();
